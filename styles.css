@@ -1,0 +1,18 @@
+#yt-sentiment-container {
+    font-family: 'YouTube Sans', 'Roboto', sans-serif;
+    transition: all 0.3s ease;
+}
+
+#yt-sentiment-container:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+#yt-sentiment-container strong {
+    color: #030303;
+}
+
+#yt-sentiment-container div {
+    font-size: 14px;
+    color: #606060;
+} 
